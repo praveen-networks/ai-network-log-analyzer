@@ -1,4 +1,4 @@
-# ai-network-log-analyzer
+# 🤖 AI Network Log Analyzer (Wi-Fi & Network Insights)
 AI-powered tool to analyze network logs and suggest performance improvements.
 # 🤖 AI Network Log Analyzer
 
