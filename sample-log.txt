@@ -1,0 +1,4 @@
+[10:01] AP1 - Client disconnected - Signal weak
+[10:05] AP1 - Client reconnected
+[10:10] AP1 - High channel interference detected
+[10:15] AP1 - Client dropped - High load
