@@ -13,6 +13,11 @@ Network Engineer | Exploring AI & Automation
 This project aims to analyze network and Wi-Fi logs using AI to identify issues and suggest improvements.
 
 ---
+## ❓ Why This Project
+
+Network issues are often identified manually, which can be time-consuming and inconsistent.
+
+This project aims to simplify that process by using AI to quickly analyze logs and provide actionable insights.
 
 ## 🎯 Objectives
 
@@ -60,3 +65,9 @@ This project will use AI to analyze network logs and provide intelligent insight
 - Pattern detection  
 
 Future versions will integrate real-time log analysis using AI models.
+
+## 📤 Example Output
+
+- Detected frequent client disconnections  
+- Identified possible signal weakness  
+- Suggested checking AP placement and transmit power  
