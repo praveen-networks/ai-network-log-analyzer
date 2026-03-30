@@ -49,3 +49,14 @@ Output:
 - Integration with real-time logs  
 - Dashboard visualization  
 - Automated alerting system  
+---
+
+## 🤖 AI Integration (Work in Progress)
+
+This project will use AI to analyze network logs and provide intelligent insights such as:
+
+- Root cause analysis  
+- Performance recommendations  
+- Pattern detection  
+
+Future versions will integrate real-time log analysis using AI models.
