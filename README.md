@@ -70,4 +70,13 @@ Future versions will integrate real-time log analysis using AI models.
 
 - Detected frequent client disconnections  
 - Identified possible signal weakness  
-- Suggested checking AP placement and transmit power  
+- Suggested checking AP placement and transmit power
+
+- --- Issue Summary ---
+roaming: 2
+latency: 1
+packet_loss: 1
+retry: 3
+timeout: 0
+
+Now provides a quick summary of detected issues for faster troubleshooting.
