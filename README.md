@@ -80,3 +80,11 @@ retry: 3
 timeout: 0
 
 Now provides a quick summary of detected issues for faster troubleshooting.
+
+## Current Detection Capabilities
+
+- Latency issues
+- Packet loss
+- Retry detection
+- Timeout detection
+- Roaming patterns
